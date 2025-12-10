@@ -1,0 +1,7 @@
+T:\LeT's_STarT\dot_net\day1_p\day1_p\bin\Debug\day1_p.exe.config
+T:\LeT's_STarT\dot_net\day1_p\day1_p\bin\Debug\day1_p.exe
+T:\LeT's_STarT\dot_net\day1_p\day1_p\bin\Debug\day1_p.pdb
+T:\LeT's_STarT\dot_net\day1_p\day1_p\obj\Debug\day1_p.csproj.AssemblyReference.cache
+T:\LeT's_STarT\dot_net\day1_p\day1_p\obj\Debug\day1_p.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\day1_p\day1_p\obj\Debug\day1_p.exe
+T:\LeT's_STarT\dot_net\day1_p\day1_p\obj\Debug\day1_p.pdb
