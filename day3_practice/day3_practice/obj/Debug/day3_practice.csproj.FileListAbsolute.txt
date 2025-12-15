@@ -1,0 +1,7 @@
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\bin\Debug\day3_practice.exe.config
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\bin\Debug\day3_practice.exe
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\bin\Debug\day3_practice.pdb
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\obj\Debug\day3_practice.csproj.AssemblyReference.cache
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\obj\Debug\day3_practice.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\obj\Debug\day3_practice.exe
+T:\LeT's_STarT\dot_net\day3_practice\day3_practice\obj\Debug\day3_practice.pdb
