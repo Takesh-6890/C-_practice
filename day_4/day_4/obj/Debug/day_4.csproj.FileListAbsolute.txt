@@ -1,0 +1,7 @@
+T:\LeT's_STarT\dot_net\day_4\day_4\obj\Debug\day_4.csproj.AssemblyReference.cache
+T:\LeT's_STarT\dot_net\day_4\day_4\obj\Debug\day_4.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\day_4\day_4\bin\Debug\day_4.exe.config
+T:\LeT's_STarT\dot_net\day_4\day_4\bin\Debug\day_4.exe
+T:\LeT's_STarT\dot_net\day_4\day_4\bin\Debug\day_4.pdb
+T:\LeT's_STarT\dot_net\day_4\day_4\obj\Debug\day_4.exe
+T:\LeT's_STarT\dot_net\day_4\day_4\obj\Debug\day_4.pdb
