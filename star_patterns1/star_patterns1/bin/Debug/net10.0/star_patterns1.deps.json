@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "star_patterns1/1.0.0": {
+        "runtime": {
+          "star_patterns1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "star_patterns1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
