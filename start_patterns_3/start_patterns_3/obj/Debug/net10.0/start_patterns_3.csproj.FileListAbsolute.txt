@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.sourcelink.json
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\bin\Debug\net10.0\start_patterns_3.exe
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\bin\Debug\net10.0\start_patterns_3.deps.json
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\bin\Debug\net10.0\start_patterns_3.runtimeconfig.json
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\bin\Debug\net10.0\start_patterns_3.dll
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\bin\Debug\net10.0\start_patterns_3.pdb
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.dll
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\refint\start_patterns_3.dll
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.pdb
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\start_patterns_3.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\start_patterns_3\start_patterns_3\obj\Debug\net10.0\ref\start_patterns_3.dll

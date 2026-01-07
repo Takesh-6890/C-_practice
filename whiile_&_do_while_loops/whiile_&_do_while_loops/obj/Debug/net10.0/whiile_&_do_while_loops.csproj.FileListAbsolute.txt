@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\bin\Debug\net10.0\whiile_&_do_while_loops.exe
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\bin\Debug\net10.0\whiile_&_do_while_loops.deps.json
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\bin\Debug\net10.0\whiile_&_do_while_loops.runtimeconfig.json
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\bin\Debug\net10.0\whiile_&_do_while_loops.dll
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\bin\Debug\net10.0\whiile_&_do_while_loops.pdb
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.sourcelink.json
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.dll
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\refint\whiile_&_do_while_loops.dll
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.pdb
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\whiile_&_do_while_loops.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\whiile_&_do_while_loops\whiile_&_do_while_loops\obj\Debug\net10.0\ref\whiile_&_do_while_loops.dll

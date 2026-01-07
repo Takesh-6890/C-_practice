@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "whiile_&_do_while_loops/1.0.0": {
+        "runtime": {
+          "whiile_&_do_while_loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "whiile_&_do_while_loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
