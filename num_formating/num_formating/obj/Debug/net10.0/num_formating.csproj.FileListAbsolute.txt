@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\num_formating\num_formating\bin\Debug\net10.0\num_formating.exe
+T:\LeT's_STarT\dot_net\num_formating\num_formating\bin\Debug\net10.0\num_formating.deps.json
+T:\LeT's_STarT\dot_net\num_formating\num_formating\bin\Debug\net10.0\num_formating.runtimeconfig.json
+T:\LeT's_STarT\dot_net\num_formating\num_formating\bin\Debug\net10.0\num_formating.dll
+T:\LeT's_STarT\dot_net\num_formating\num_formating\bin\Debug\net10.0\num_formating.pdb
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.sourcelink.json
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.dll
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\refint\num_formating.dll
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.pdb
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\num_formating.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\num_formating\num_formating\obj\Debug\net10.0\ref\num_formating.dll
