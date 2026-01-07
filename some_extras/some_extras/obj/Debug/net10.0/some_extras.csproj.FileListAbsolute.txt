@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\some_extras\some_extras\bin\Debug\net10.0\some_extras.exe
+T:\LeT's_STarT\dot_net\some_extras\some_extras\bin\Debug\net10.0\some_extras.deps.json
+T:\LeT's_STarT\dot_net\some_extras\some_extras\bin\Debug\net10.0\some_extras.runtimeconfig.json
+T:\LeT's_STarT\dot_net\some_extras\some_extras\bin\Debug\net10.0\some_extras.dll
+T:\LeT's_STarT\dot_net\some_extras\some_extras\bin\Debug\net10.0\some_extras.pdb
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.sourcelink.json
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.dll
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\refint\some_extras.dll
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.pdb
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\some_extras.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\some_extras\some_extras\obj\Debug\net10.0\ref\some_extras.dll
