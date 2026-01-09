@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\bin\Debug\net10.0\NUM_PATERN_1.exe
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\bin\Debug\net10.0\NUM_PATERN_1.deps.json
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\bin\Debug\net10.0\NUM_PATERN_1.runtimeconfig.json
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\bin\Debug\net10.0\NUM_PATERN_1.dll
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\bin\Debug\net10.0\NUM_PATERN_1.pdb
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.sourcelink.json
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.dll
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\refint\NUM_PATERN_1.dll
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.pdb
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\NUM_PATERN_1.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\NUM_PATERN_1\NUM_PATERN_1\obj\Debug\net10.0\ref\NUM_PATERN_1.dll
