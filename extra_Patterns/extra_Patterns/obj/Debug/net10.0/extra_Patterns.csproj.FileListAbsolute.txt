@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\bin\Debug\net10.0\extra_Patterns.exe
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\bin\Debug\net10.0\extra_Patterns.deps.json
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\bin\Debug\net10.0\extra_Patterns.runtimeconfig.json
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\bin\Debug\net10.0\extra_Patterns.dll
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\bin\Debug\net10.0\extra_Patterns.pdb
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.sourcelink.json
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.dll
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\refint\extra_Patterns.dll
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.pdb
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\extra_Patterns.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\extra_Patterns\extra_Patterns\obj\Debug\net10.0\ref\extra_Patterns.dll
