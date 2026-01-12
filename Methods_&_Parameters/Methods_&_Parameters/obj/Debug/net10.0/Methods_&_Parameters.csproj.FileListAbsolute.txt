@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\bin\Debug\net10.0\Methods_&_Parameters.exe
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\bin\Debug\net10.0\Methods_&_Parameters.deps.json
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\bin\Debug\net10.0\Methods_&_Parameters.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\bin\Debug\net10.0\Methods_&_Parameters.dll
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\bin\Debug\net10.0\Methods_&_Parameters.pdb
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.dll
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\refint\Methods_&_Parameters.dll
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.pdb
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\Methods_&_Parameters.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\Methods_&_Parameters\Methods_&_Parameters\obj\Debug\net10.0\ref\Methods_&_Parameters.dll
