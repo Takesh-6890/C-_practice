@@ -1,0 +1,14 @@
+C:\Users\jtake\source\repos\method_overriding\method_overriding\bin\Debug\net10.0\method_overriding.exe
+C:\Users\jtake\source\repos\method_overriding\method_overriding\bin\Debug\net10.0\method_overriding.deps.json
+C:\Users\jtake\source\repos\method_overriding\method_overriding\bin\Debug\net10.0\method_overriding.runtimeconfig.json
+C:\Users\jtake\source\repos\method_overriding\method_overriding\bin\Debug\net10.0\method_overriding.dll
+C:\Users\jtake\source\repos\method_overriding\method_overriding\bin\Debug\net10.0\method_overriding.pdb
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.AssemblyInfoInputs.cache
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.AssemblyInfo.cs
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.csproj.CoreCompileInputs.cache
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.dll
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\refint\method_overriding.dll
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.pdb
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\method_overriding.genruntimeconfig.cache
+C:\Users\jtake\source\repos\method_overriding\method_overriding\obj\Debug\net10.0\ref\method_overriding.dll

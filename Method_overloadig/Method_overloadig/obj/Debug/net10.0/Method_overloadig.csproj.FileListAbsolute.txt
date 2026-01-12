@@ -1,0 +1,14 @@
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\bin\Debug\net10.0\Method_overloadig.exe
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\bin\Debug\net10.0\Method_overloadig.deps.json
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\bin\Debug\net10.0\Method_overloadig.runtimeconfig.json
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\bin\Debug\net10.0\Method_overloadig.dll
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\bin\Debug\net10.0\Method_overloadig.pdb
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.AssemblyInfoInputs.cache
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.AssemblyInfo.cs
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.csproj.CoreCompileInputs.cache
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.dll
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\refint\Method_overloadig.dll
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.pdb
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\Method_overloadig.genruntimeconfig.cache
+C:\Users\jtake\source\repos\Method_overloadig\Method_overloadig\obj\Debug\net10.0\ref\Method_overloadig.dll
