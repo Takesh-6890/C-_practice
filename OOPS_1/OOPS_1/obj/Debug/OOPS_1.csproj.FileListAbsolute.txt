@@ -1,0 +1,7 @@
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\bin\Debug\OOPS_1.exe.config
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\bin\Debug\OOPS_1.exe
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\bin\Debug\OOPS_1.pdb
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\obj\Debug\OOPS_1.csproj.AssemblyReference.cache
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\obj\Debug\OOPS_1.csproj.CoreCompileInputs.cache
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\obj\Debug\OOPS_1.exe
+C:\Users\jtake\source\repos\OOPS_1\OOPS_1\obj\Debug\OOPS_1.pdb
