@@ -1,0 +1,14 @@
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\bin\Debug\net10.0\Lambda_experssion_1.exe
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\bin\Debug\net10.0\Lambda_experssion_1.deps.json
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\bin\Debug\net10.0\Lambda_experssion_1.runtimeconfig.json
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\bin\Debug\net10.0\Lambda_experssion_1.dll
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\bin\Debug\net10.0\Lambda_experssion_1.pdb
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.AssemblyInfoInputs.cache
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.AssemblyInfo.cs
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.csproj.CoreCompileInputs.cache
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.dll
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\refint\Lambda_experssion_1.dll
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.pdb
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\Lambda_experssion_1.genruntimeconfig.cache
+C:\Users\jtake\source\repos\Lambda_experssion_1\Lambda_experssion_1\obj\Debug\net10.0\ref\Lambda_experssion_1.dll
