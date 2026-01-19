@@ -1,0 +1,7 @@
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\bin\Debug\Member_functions_&_parameters_types.exe.config
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\bin\Debug\Member_functions_&_parameters_types.exe
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\bin\Debug\Member_functions_&_parameters_types.pdb
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\obj\Debug\Member_functions_&_parameters_types.csproj.AssemblyReference.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\obj\Debug\Member_functions_&_parameters_types.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\obj\Debug\Member_functions_&_parameters_types.exe
+T:\LeT's_STarT\dot_net\C#\OOPs\Member_functions_&_parameters_types\Member_functions_&_parameters_types\obj\Debug\Member_functions_&_parameters_types.pdb
