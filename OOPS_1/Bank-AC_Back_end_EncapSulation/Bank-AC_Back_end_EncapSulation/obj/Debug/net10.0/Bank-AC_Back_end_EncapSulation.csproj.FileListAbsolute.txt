@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\bin\Debug\net10.0\Bank-AC_Back_end_EncapSulation.exe
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\bin\Debug\net10.0\Bank-AC_Back_end_EncapSulation.deps.json
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\bin\Debug\net10.0\Bank-AC_Back_end_EncapSulation.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\bin\Debug\net10.0\Bank-AC_Back_end_EncapSulation.dll
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\bin\Debug\net10.0\Bank-AC_Back_end_EncapSulation.pdb
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.dll
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\refint\Bank-AC_Back_end_EncapSulation.dll
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.pdb
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\Bank-AC_Back_end_EncapSulation.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Bank-AC_Back_end_EncapSulation\Bank-AC_Back_end_EncapSulation\obj\Debug\net10.0\ref\Bank-AC_Back_end_EncapSulation.dll
