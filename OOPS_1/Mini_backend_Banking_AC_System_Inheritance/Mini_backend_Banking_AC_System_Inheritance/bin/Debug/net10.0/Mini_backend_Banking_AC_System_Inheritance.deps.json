@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Mini_backend_Banking_AC_System_Inheritance/1.0.0": {
+        "runtime": {
+          "Mini_backend_Banking_AC_System_Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini_backend_Banking_AC_System_Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
