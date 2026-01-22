@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Mini_App_Payment_Sys_Interface/1.0.0": {
+        "runtime": {
+          "Mini_App_Payment_Sys_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini_App_Payment_Sys_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
