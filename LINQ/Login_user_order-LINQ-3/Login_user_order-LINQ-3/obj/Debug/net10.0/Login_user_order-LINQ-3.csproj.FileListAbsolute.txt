@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\bin\Debug\net10.0\Login_user_order-LINQ-3.exe
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\bin\Debug\net10.0\Login_user_order-LINQ-3.deps.json
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\bin\Debug\net10.0\Login_user_order-LINQ-3.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\bin\Debug\net10.0\Login_user_order-LINQ-3.dll
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\bin\Debug\net10.0\Login_user_order-LINQ-3.pdb
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.dll
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\refint\Login_user_order-LINQ-3.dll
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.pdb
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\Login_user_order-LINQ-3.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\LINQ\Login_user_order-LINQ-3\Login_user_order-LINQ-3\obj\Debug\net10.0\ref\Login_user_order-LINQ-3.dll
