@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\bin\Debug\net10.0\Order_Preprocessing_Delegates.exe
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\bin\Debug\net10.0\Order_Preprocessing_Delegates.deps.json
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\bin\Debug\net10.0\Order_Preprocessing_Delegates.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\bin\Debug\net10.0\Order_Preprocessing_Delegates.dll
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\bin\Debug\net10.0\Order_Preprocessing_Delegates.pdb
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.dll
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\refint\Order_Preprocessing_Delegates.dll
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.pdb
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\Order_Preprocessing_Delegates.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\Order_Preprocessing_Delegates\Order_Preprocessing_Delegates\obj\Debug\net10.0\ref\Order_Preprocessing_Delegates.dll
