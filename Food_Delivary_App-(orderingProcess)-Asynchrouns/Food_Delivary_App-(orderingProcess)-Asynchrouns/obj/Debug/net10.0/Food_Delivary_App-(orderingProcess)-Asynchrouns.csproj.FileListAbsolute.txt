@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\bin\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.exe
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\bin\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.deps.json
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\bin\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\bin\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.dll
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\bin\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.pdb
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.dll
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\refint\Food_Delivary_App-(orderingProcess)-Asynchrouns.dll
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.pdb
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\Food_Delivary_App-(orderingProcess)-Asynchrouns.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\Food_Delivary_App-(orderingProcess)-Asynchrouns\Food_Delivary_App-(orderingProcess)-Asynchrouns\obj\Debug\net10.0\ref\Food_Delivary_App-(orderingProcess)-Asynchrouns.dll
