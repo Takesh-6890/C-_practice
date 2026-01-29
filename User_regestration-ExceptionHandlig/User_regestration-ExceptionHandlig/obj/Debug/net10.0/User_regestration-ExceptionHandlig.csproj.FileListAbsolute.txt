@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\bin\Debug\net10.0\User_regestration-ExceptionHandlig.exe
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\bin\Debug\net10.0\User_regestration-ExceptionHandlig.deps.json
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\bin\Debug\net10.0\User_regestration-ExceptionHandlig.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\bin\Debug\net10.0\User_regestration-ExceptionHandlig.dll
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\bin\Debug\net10.0\User_regestration-ExceptionHandlig.pdb
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.dll
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\refint\User_regestration-ExceptionHandlig.dll
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.pdb
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\User_regestration-ExceptionHandlig.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\User_regestration-ExceptionHandlig\User_regestration-ExceptionHandlig\obj\Debug\net10.0\ref\User_regestration-ExceptionHandlig.dll
