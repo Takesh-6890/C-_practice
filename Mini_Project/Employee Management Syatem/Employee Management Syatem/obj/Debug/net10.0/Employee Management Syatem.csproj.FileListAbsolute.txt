@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.sourcelink.json
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\bin\Debug\net10.0\Employee Management Syatem.exe
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\bin\Debug\net10.0\Employee Management Syatem.deps.json
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\bin\Debug\net10.0\Employee Management Syatem.runtimeconfig.json
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\bin\Debug\net10.0\Employee Management Syatem.dll
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\bin\Debug\net10.0\Employee Management Syatem.pdb
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.dll
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\refint\Employee Management Syatem.dll
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.pdb
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\Employee Management Syatem.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\Mini_Project\Employee Management Syatem\Employee Management Syatem\obj\Debug\net10.0\ref\Employee Management Syatem.dll
